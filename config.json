@@ -35,30 +35,30 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100005193854879",
-    "61567325751299"
+    "100071009500533",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100005193854879"
+      "100071009500533"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯",
-  "prefix": "?",
+  "nickNameBot": "𝑴𝑼𝑰𝑲𝑰 𝑨𝑰𓁹💫🌷⛱️",
+  "prefix": "!",
   "BaYjidnapi": "",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "BaYjid🤡",
-  "facebook2": "https://www.facebook.com/BAYJID.404",
-  "facebook": "https://www.facebook.com/BAYJID.404",
-  "email": "mohammadbayjid204@yahoo.com",
-  "replit": "https://replit.com/@biju",
-  "github": "https://github.com/BAYJID-404-BOYZ",
+  "authorName": "𝑯𝑼𝑺𝑺𝑨𝑰𝑵 𝑿2🤡",
+  "facebook2": "https://www.facebook.com/profile.php?id=100094673012649&mibextid=ZbWKwL",
+  "facebook": "https://www.facebook.com/profile.php?id=100071009500533&mibextid=ZbWKwL",
+  "email": "𝒙2𝒉𝒖𝒔𝒔𝒂𝒊𝒏120@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎",
+  "replit": "𝑺𝒆𝒄𝒓𝒆𝒕😒",
+  "github": "𝑿2 𝑯𝒖𝒔𝒔𝒂𝒊𝒏",
   "insta": "no",
-  "age": "17+",
+  "age": "16+",
   "TG": "",
   "database": {
     "type": "sqlite",
