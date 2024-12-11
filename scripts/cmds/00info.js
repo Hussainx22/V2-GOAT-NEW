@@ -15,11 +15,11 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = " ⩸ᗷᗩᎩᒍᏆᗞ⩸ ";
-		const ownAge = "『 ⩸__17__⩸ 』";
-		const messenger = "https://m.me/100065506668822";
-		const authorFB = "https://www.facebook.com/profile.php?id=BAYJID.500k";
-		const authorNumber = "_01638007072";
+		const authorName = " ⩸𝑯𝑼𝑺𝑺𝑨𝑰𝑵⩸ ";
+		const ownAge = "『 ⩸__16__⩸ 』";
+		const messenger = "𝑫𝒆𝒎𝒖 𝒏𝒂";
+		const authorFB = "https://www.facebook.com/profile.php?id=100071009500533&mibextid=ZbWKwL";
+		const authorNumber = "_01965142856";
 		const Status = "⩸__🆂🅸🅽🅶🅻🅴__⩸";
 		const urls = [
 "https://i.imgur.com/I8JSUWI.jpeg",
@@ -51,11 +51,11 @@ module.exports = {
 \⏰彡𝑁𝑜𝑤 𝑇𝑖𝑚𝑒 : ${time}
 \🔰彡𝐴𝑛𝑦 𝐻𝑒𝑙𝑝 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 :⩸__${messenger}__⩸
 \📛彡𝐵𝑜𝑡 𝐼𝑠 𝑅𝑢𝑛𝑛𝑖𝑛𝑔 𝐹𝑜𝑟 : ${uptimeString}
-    𝑻𝒈: https://t.me/MOHAMMADBAYJID
-    𝑰𝒏𝒔𝒕𝒂: https://www.instagram.com/mr_bayjid120?
-    𝑪𝒂𝒑𝑪𝒖𝒕: copy_bayjid
-    𝑻𝒊𝒌𝑻𝒐𝒌: https://www.tiktok.com/@copy_bayjid?
-    𝒀𝒐𝒖𝑻𝒖𝒃𝒆: https://youtube.com/@Bayjid Editz?
+    𝑻𝒈: 😒
+    𝑰𝒏𝒔𝒕𝒂: 𝑲𝒊 𝒌𝒐𝒓𝒃𝒂?
+    𝑪𝒂𝒑𝑪𝒖𝒕: 𝑯𝒖𝒔𝒔𝒂𝒊𝒏 𝒙2
+    𝑻𝒊𝒌𝑻𝒐𝒌: 🫣?
+    𝒀𝒐𝒖𝑻𝒖𝒃𝒆:  𝑨𝒊 𝒈𝒖𝒍𝒂 𝒂𝒎𝒂𝒓 𝒅𝒂𝒓𝒂 𝒉𝒐𝒊𝒃𝒐 𝒏𝒂🫨
 \===============`,
 			attachment: await global.utils.getStreamFromURL(link)
 		});
