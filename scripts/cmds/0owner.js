@@ -16,15 +16,15 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: 'BAYJID Ai',
+      name: '𝑯4𝑺𝑺𝑨𝑰𝑵 ✞︎',
       gender: 'Male',
-      age: '17+',
+      age: '16+',
       height: 'Unknown',
-      facebookLink: 'https://www.facebook.com/BAYJID.404',
-      nick: 'BIJU'
+      facebookLink: 'https://www.facebook.com/profile.php?id=100071009500533&mibextid=ZbWKwL',
+      nick: '𝑵𝒂𝒊 𝒓𝒆 𝒗𝒂𝒊😒'
     };
 
-    const bold = 'https://i.imgur.com/DDO686J.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://i.imgur.com/Tt4unNb.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
