@@ -22,10 +22,10 @@ module.exports = {
 		const authorNumber = "_01965142856";
 		const Status = "⩸__🆂🅸🅽🅶🅻🅴__⩸";
 		const urls = [
-"https://i.imgur.com/iOiSc99.jpeg",
-"https://i.imgur.com/fJ0elUi.png",
-"https://i.imgur.com/rRqbKEU.jpeg",
-"https://i.imgur.com/oBC2zIj.jpeg"
+"https://i.imgur.com/wNQHWAk.mp4",
+"https://i.imgur.com/PrkdFrV.mp4",
+"https://i.imgur.com/KQ1kOo2.mp4",
+"https://i.imgur.com/z3smEma.mp4"
 ];
 		const link = urls[Math.floor(Math.random() * urls.length)];
 		const now = moment().tz('Asia/Jakarta');
