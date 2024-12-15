@@ -21,7 +21,7 @@ Yo, my prefix is [ 𓆩 _[!]_ 𓆪 ]\n
 ➥ &sim [message] -> talk to bot
 ➥ &callad [message] -> report any problem encountered
 ➥ &help [command] -> information and usage of command\n\nHave fun using it enjoy!❤️\nBot Developer: https://www.facebook.com/profile.php?id=100071009500533&mibextid=ZbWKwL`,
- attachment: await global.utils.getStreamFromURL("https://i.imgur.com/fJ0elUi.png")
+ attachment: await global.utils.getStreamFromURL("https://i.imgur.com/A0lGM17.jpeg")
  });
  }
  }
